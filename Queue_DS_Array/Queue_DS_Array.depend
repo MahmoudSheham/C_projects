@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1692298428 source:f:\embedded\esd\queue_ds_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue/Queue_DS.h"
+
+1692297706 source:f:\embedded\esd\queue_ds_array\queue\queue_ds.c
+	"Queue_DS.h"
+
+1692299442 f:\embedded\esd\queue_ds_array\queue\queue_ds.h
+	<stdio.h>
+	<stdlib.h>
+	"../Utilities/std_types.h"
+
+1691875843 f:\embedded\esd\queue_ds_array\utilities\std_types.h
+
